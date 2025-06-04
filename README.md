@@ -19,7 +19,7 @@
 
 > setup2/setup ksystem
 
-> masukkan password: 12 (sesuaikan dgn pw saat install ubuntu)
+masukkan password: 12 (sesuaikan dgn pw saat install ubuntu)
 
 > tar xvfz parsegen
 
@@ -96,7 +96,7 @@
 
 > source ubhsql.txt;
 
-> browser > localhost > jika muncul popup selain login, jalankan:
+browser > localhost > jika muncul popup selain login, jalankan:
 
 > use ks_umum;
 
