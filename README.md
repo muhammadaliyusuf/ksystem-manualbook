@@ -7,7 +7,8 @@
 
 (/home/ksystem/Documents/Tutor/ksweb_dtubahver20.txt)
 
-### ksystem.co > Klik Kiri di Logo KSYSTEM > Download:
+### File Requirement:
+= ksystem.co > Klik Kiri di Logo KSYSTEM > Download:
 - parsegen[yy-mm-dd]a.tgz
 - ksystem[yy-mm-dd]a.wt
 - ksresource[yy-mm-dd].tgz
@@ -19,7 +20,7 @@
 
 > setup2/setup ksystem
 
-masukkan password: 12 (sesuaikan dgn pw saat install ubuntu)
+> masukkan password: 12 (sesuaikan dgn pw saat install ubuntu)
 
 > tar xvfz parsegen
 
